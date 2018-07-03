@@ -1,6 +1,6 @@
 ### STUDENT SECTION
 
-MeasuredStdDev_GPSPosXY = 0.733
+MeasuredStdDev_GPSPosXY = 0.70
 MeasuredStdDev_AccelXY = 0.509
 
 ### END STUDENT SECTION
